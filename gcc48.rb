@@ -3,7 +3,6 @@ require 'formula'
 class Gcc48 < Formula
   homepage 'http://gcc.gnu.org'
   url 'ftp://gcc.gnu.org/pub/gcc/releases/gcc-4.8.0/gcc-4.8.0.tar.bz2'
-  version '4.8.0'
   sha1 'b4ee6e9bdebc65223f95067d0cc1a634b59dad72'
 
   head 'svn://gcc.gnu.org/svn/gcc/tags/gcc_4_8_0_release'
